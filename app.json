@@ -32,8 +32,8 @@
       "required": false
     },
     "AUTH_USERS": {
-      "description": "allow only pre-defined users to use this bot",
-      "value": "680815375"
+     "description": "Generate screenshots for file after uploading ( True or false )",
+      "value": "True",
       "required": false
     },
     "BANNED_USERS": {
